@@ -32,6 +32,7 @@
 - [Muskan Sah](https://github.com/Lily3-2)
 - [Varsh](https://github.com/Varshaav16)
 - [Mia](https://github.com/SerikiAyodele)
+- [hanzinisthebest](https://github.com/hanzinisthebest)
 - [Tymon Sobiech](https://github.com/4Tek4)
 - [Donovan Gibson](https://github.com/Dgibson89)
 - [Shadmehr](https://github.com/shadmehr-salehi)
